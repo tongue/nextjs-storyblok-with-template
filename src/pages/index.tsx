@@ -5,7 +5,7 @@ export default function Home(props: any) {
   return (
     <>
       <Head>
-        <title>Storyblok One Entry Example</title>
+        <title>Storyblok Template Example</title>
       </Head>
       <header>
         <h1>
